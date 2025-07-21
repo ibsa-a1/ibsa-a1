@@ -29,4 +29,10 @@ Welcome to my GitHub profile!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ibsa_a1)
 
 ## My GitHub Stats
-![Ibsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibsa-a1&show_icons=true&theme=radical)
+
+![Ibsa Abera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibsa-a1&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=ibsa-a1&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibsa-a1&layout=compact&theme=radical)
+
+#### 🚀 Top Contributed Repo
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ibsa-a1&repo=YOUR_TOP_REPO)](https://github.com/ibsa-a1/YOUR_TOP_REPO)
