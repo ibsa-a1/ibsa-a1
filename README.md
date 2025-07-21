@@ -1,6 +1,8 @@
 # Hi there, I'm Ibsa 👋
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=Frontend+Developer...)
 
+![Visitor Count](https://komarev.com/ghpvc/?username=ibsa-a1&color=blue)
+
 Welcome to my GitHub profile!
 
 - 💻 I love coding in React - Javascript and Tailwindcss.
@@ -34,3 +36,6 @@ Welcome to my GitHub profile!
 ![Ibsa Abera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibsa-a1&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=ibsa-a1&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibsa-a1&layout=compact&theme=radical)
+
+## Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ibsa-a1&theme=react-dark)
