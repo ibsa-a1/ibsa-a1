@@ -1,5 +1,5 @@
 # Hi there, I'm Ibsa 👋
-                                        ##Frontend Developer
+                                          FRONTEND DEVELOPER
 
 Welcome to my GitHub profile!
 
