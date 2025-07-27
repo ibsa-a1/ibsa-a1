@@ -38,6 +38,3 @@ Welcome to my GitHub profile!
 ![Ibsa Abera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibsa-a1&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=ibsa-a1&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibsa-a1&layout=compact&theme=radical)
-
-## Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ibsa-a1&theme=react-dark)
