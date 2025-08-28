@@ -9,6 +9,7 @@ Welcome to my GitHub profile!
 - 🚀 Currently Learning by building.
 - 🌱 Always learning new things about software development.
 - 📫 How to reach me: [Email](mailto:ibsaabera712@gmail.com)
+- 🌐 Portfolio: [ibsaabera.vercel.app](https://ibsaabera.vercel.app)
 
 
 ## 🛠️ Skills
@@ -19,6 +20,7 @@ Welcome to my GitHub profile!
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
