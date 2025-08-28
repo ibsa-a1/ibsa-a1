@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 - 🚀 Currently Learning by building.
 - 🌱 Always learning new things about software development.
 - 📫 How to reach me: [Email](mailto:ibsaabera712@gmail.com)
-- 🌐 Portfolio: [ibsaabera.vercel.app](https://ibsaabera.vercel.app)
+- 🌐 Portfolio: <a href="https://ibsaabera.vercel.app" target="_blank" rel="noopener noreferrer">ibsaabera.vercel.app</a>
 
 
 ## 🛠️ Skills
