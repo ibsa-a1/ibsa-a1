@@ -6,7 +6,7 @@
 Welcome to my GitHub profile!
 
 - 💻 I love coding in React - Javascript and Tailwindcss.
-- 🚀 Currently Learning by building.
+- 🚀 Currently Learning Node.js (MERN Stack) 
 - 🌱 Always learning new things about software development.
 - 📫 How to reach me: [Email](mailto:ibsaabera712@gmail.com)
 - 🌐 Portfolio: [ibsaabera.vercel.app](https://ibsaabera.vercel.app)
