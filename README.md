@@ -63,6 +63,6 @@ Welcome to my GitHub profile! 🚀
 
 ## 📊 My GitHub Stats
 
-![Ibsa Abera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibsa-a1&show_icons=true&theme=radical&cache_seconds=86400)
+![Ibsa Abera's GitHub Stats](https://github-stats-extended.vercel.app/api?username=ibsa-a1&show_icons=true&theme=radical&cache_seconds=86400)
 ![GitHub Streak](https://streak-stats.demolab.com?user=ibsa-a1&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibsa-a1&layout=compact&theme=radical&cache_seconds=86400)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ibsa-a1&layout=compact&theme=radical&cache_seconds=86400)
