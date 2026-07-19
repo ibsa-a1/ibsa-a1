@@ -1,29 +1,33 @@
 # Hi there, I'm Ibsa 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer...;MERN+Stack+Enthusiast...)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer...;Building+Modern+Web+Apps...;Always+Shipping+Something...)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ibsa-a1&color=blue)
 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile! 🚀
 
-- 💻 Passionate Full Stack Developer specializing in the **MERN Stack**
-- 🚀 Currently building with **React**, **Node.js**, **Express**, and **MongoDB**
-- 🌱 Always learning new things about software development and modern web technologies
-- 📫 How to reach me: [Email](mailto:ibsaabera712@gmail.com)
+- 💻 Full Stack Developer who loves turning ideas into working products
+- 🛠️ Comfortable across the stack — **React**, **Next.js**, **Node.js**, **Express**, **MongoDB**, and **Supabase**
+- 🐳 Getting more into **Docker** for cleaner, reproducible dev environments
+- 🌱 Always learning — currently leveling up my **TypeScript**
+- 📫 Reach me: [Email](mailto:ibsaabera712@gmail.com)
 - 🌐 Portfolio: [ibsaabera.tech](https://ibsaabera.tech)
+
+---
 
 ## 🛠️ Skills
 
-### Programming Languages
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 
 ### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -35,10 +39,12 @@ Welcome to my GitHub profile!
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -53,8 +59,10 @@ Welcome to my GitHub profile!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ibsa_a1)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/epsilloon)
 
-## My GitHub Stats
+---
 
-![Ibsa Abera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibsa-a1&show_icons=true&theme=radical)
+## 📊 My GitHub Stats
+
+![Ibsa Abera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibsa-a1&show_icons=true&theme=radical&cache_seconds=86400)
 ![GitHub Streak](https://streak-stats.demolab.com?user=ibsa-a1&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibsa-a1&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibsa-a1&layout=compact&theme=radical&cache_seconds=86400)
